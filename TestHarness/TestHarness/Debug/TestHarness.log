@@ -1,0 +1,19 @@
+﻿  Client.cpp
+  main.cpp
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(97,42): warning C4244: '+=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(104,42): warning C4244: '+=': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(118,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(164,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(155,32): warning C4101: 'elapsedMicroseconds': unreferenced local variable
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(198,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Me\Desktop\MessageBoard\TestHarness\TestHarness\main.cpp(189,32): warning C4101: 'elapsedMicroseconds': unreferenced local variable
+  Generating Code...
+  TestHarness.vcxproj -> C:\Users\Me\Desktop\MessageBoard\TestHarness\Debug\TestHarness.exe

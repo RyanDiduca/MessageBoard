@@ -1,0 +1,28 @@
+﻿  Client.cpp
+  main.cpp
+C:\Users\Me\Desktop\MessageBoard\Server\Server\main.cpp(69,79): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Me\Desktop\MessageBoard\Server\Server\main.cpp(107,76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+C:\Users\Me\Desktop\MessageBoard\Server\Server\main.cpp(68): message : see reference to function template instantiation 'std::pair<const int,std::string>::pair<unsigned __int64,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=std::basic_string<char,std::char_traits<char>,std::allocator<char>>
+          ]
+C:\Users\Me\Desktop\MessageBoard\Server\Server\main.cpp(68): message : see reference to function template instantiation 'std::pair<const int,std::string>::pair<unsigned __int64,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=std::basic_string<char,std::char_traits<char>,std::allocator<char>>
+          ]
+  RequestParser.cpp
+  Server.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Server.vcxproj -> C:\Users\Me\Desktop\MessageBoard\Server\x64\Release\Server.exe
